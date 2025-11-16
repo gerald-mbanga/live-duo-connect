@@ -199,6 +199,9 @@ const Index = () => {
               Go Live Together. Connect Deeper.
             </p>
             <p className="text-sm text-muted-foreground">
+              Made and coded by Gerald Mbanga
+            </p>
+            <p className="text-sm text-muted-foreground">
               © 2024 TwinLive. All rights reserved.
             </p>
           </div>
